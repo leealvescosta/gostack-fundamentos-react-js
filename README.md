@@ -7,7 +7,7 @@
 <blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leealvescosta/gostack-fundamentos-react-js?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by LeandroCosta" src="https://img.shields.io/badge/Made%20by-Leandro%20Costa-brightgreen">
